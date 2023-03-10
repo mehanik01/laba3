@@ -1,4 +1,4 @@
-"o][o]["
+"o][o]gg"
 def zad0():
 
     words = []
